@@ -2,7 +2,7 @@
 
 /**
  * compare - Function used to compare strings.
- * @com: Function String to be compared to orders.
+ * @com: Function Strings to be compared to orders.
  *
  * Return: Zero by default for success
  */
