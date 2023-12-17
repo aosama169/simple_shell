@@ -15,7 +15,7 @@ int main(void)
 	i = 0;
 	while (i == 0)
 	{
-		printf("$ ");
+		printf(":) ");
 		argv = get_command();
 		j = compare(argv);
 		switch (j)
